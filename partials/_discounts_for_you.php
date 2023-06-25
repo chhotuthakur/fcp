@@ -3,7 +3,7 @@
         <!-- header -->
         <div class="flex px-6 py-3 justify-between items-center">
             <h1 class="text-xl font-medium">Discounts for You</h1>
-            <a href="./pro.php" class="bg-primary-blue text-xs font-medium text-white px-5 py-2.5 rounded-sm shadow-lg">VIEW ALL</a>
+            <a href="./prolist.php" class="bg-primary-blue text-xs font-medium text-white px-5 py-2.5 rounded-sm shadow-lg">VIEW ALL</a>
         </div>
         <hr>
         <!-- header -->

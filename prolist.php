@@ -7,385 +7,415 @@ include 'partials/_categories_img_nav.php';
 
 
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>.
     <link rel="stylesheet" href="assets/css/flip.css">
 </head>
+
 <body>
-    
 
 
 
 
 
-<div class="_36fx1h _6t1WkM _3HqJxg">
-    <div class="_1YokD2 _2GoDe3">
-        <div class="_1YokD2 _3Mn1Gg col-2-12" style="flex: 0 0 280px; max-width: 280px; padding: 0px 10px 0px 0px;">
-            <div class="_1AtVbE col-12-12" style="padding: 0px 0px 10px;"><a href="/6bo/g0i/9no/~cs-2sui29twwl/pr?sid=6bo%2Cg0i%2C9no&amp;collection-tab-name=+Newly+Launched+Monitors&amp;param=1234&amp;ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbIk5ldyBSYW5nZSBvZiBNb25pdG9ycyJdLCJ2YWx1ZVR5cGUiOiJNVUxUSV9WQUxVRUQifX19fX0%3D&amp;nnc=29DGAM186JVI_MERCH&amp;otracker=bp_browse_announcement_6bo%2Cg0i%2C9no" class="UYS4aW _3E_YdP" data-tkid="M_1b8fc128-3ded-45c7-b3cc-226d6112e9f0_4.29DGAM186JVI">
-                    <div class="_3ywSr_" style="padding-top: 53.57%;">
-                        <div class="_1bEAQy _2iN8uD _312yBx" style="padding-top: 53.57%;"><img class="_2OHU_q _2WCh1J aA9eLq" alt="App" src="https://rukminim1.flixcart.com/fk-p-flap/400/400/image/3aa8e62cd04d4596.jpg?q=50"><img class="kJjFO0 _3DIhEh _9JTfqZ" src="https://rukminim1.flixcart.com/fk-p-flap/100/100/image/3aa8e62cd04d4596.jpg?q=50" alt="App"></div>
-                    </div>
-                    <div class="_1sPNy4">
-                        <div class="_2LR_KO">Sale is Live</div>
-                        <div class="tMzY0d">Sale is Live From ₹5,499</div>
-                    </div>
-                </a></div>
-            <div class="_1YokD2 _3Mn1Gg col-12-12">
-                <div class="_1AtVbE col-12-12">
-                    <div class="_1KOcBL">
-                        <section class="JWMl0H _2hbLCH">
-                            <div class="_2ssEMF">
-                                <div class="_3V8rao"><span>Filters</span></div>
+
+    <div class="_36fx1h _6t1WkM _3HqJxg">
+        <div class="_1YokD2 _2GoDe3">
+            <div class="_1YokD2 _3Mn1Gg col-2-12" style="flex: 0 0 280px; max-width: 280px; padding: 0px 10px 0px 0px;">
+                <div class="_1AtVbE col-12-12" style="padding: 0px 0px 10px;"><a href="/6bo/g0i/9no/~cs-2sui29twwl/pr?sid=6bo%2Cg0i%2C9no&amp;collection-tab-name=+Newly+Launched+Monitors&amp;param=1234&amp;ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbIk5ldyBSYW5nZSBvZiBNb25pdG9ycyJdLCJ2YWx1ZVR5cGUiOiJNVUxUSV9WQUxVRUQifX19fX0%3D&amp;nnc=29DGAM186JVI_MERCH&amp;otracker=bp_browse_announcement_6bo%2Cg0i%2C9no" class="UYS4aW _3E_YdP" data-tkid="M_1b8fc128-3ded-45c7-b3cc-226d6112e9f0_4.29DGAM186JVI">
+                        <div class="_3ywSr_" style="padding-top: 53.57%;">
+                            <div class="_1bEAQy _2iN8uD _312yBx" style="padding-top: 53.57%;"><img class="_2OHU_q _2WCh1J aA9eLq" alt="App" src="https://rukminim1.flixcart.com/fk-p-flap/400/400/image/3aa8e62cd04d4596.jpg?q=50"><img class="kJjFO0 _3DIhEh _9JTfqZ" src="https://rukminim1.flixcart.com/fk-p-flap/100/100/image/3aa8e62cd04d4596.jpg?q=50" alt="App"></div>
+                        </div>
+                        <div class="_1sPNy4">
+                            <div class="_2LR_KO">Sale is Live</div>
+                            <div class="tMzY0d">Sale is Live From ₹5,499</div>
+                        </div>
+                    </a></div>
+                <div class="_1YokD2 _3Mn1Gg col-12-12">
+                    <div class="_1AtVbE col-12-12">
+                        <div class="_1KOcBL">
+                            <section class="JWMl0H _2hbLCH">
+                                <div class="_2ssEMF">
+                                    <div class="_3V8rao"><span>Filters</span></div>
+                                </div>
+                            </section>
+                            <div class="_2q_g77">
+                                <section class="_2aDURW">
+                                    <div class="_2lfNTw"><span>CATEGORIES</span></div>
+                                    <div>
+                                        <div class="TB_InB"><span><svg width="10" height="10" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2Iqv73">
+                                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_3zK8He"></path>
+                                                </svg></span><a class="_2qvBBJ _2Mji8F" title="Computers" href="/computers/pr?sid=6bo&amp;otracker=categorytree">Computers</a></div>
+                                    </div>
+                                    <div>
+                                        <div class="TB_InB"><span><svg width="10" height="10" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2Iqv73">
+                                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_3zK8He"></path>
+                                                </svg></span><a class="_2qvBBJ _2Mji8F" title="Computer Components" href="/computers/computer-components/pr?sid=6bo,g0i&amp;otracker=categorytree">Computer Components</a></div>
+                                    </div>
+                                    <div>
+                                        <div class="TB_InB"><span><svg width="10" height="10" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2Iqv73">
+                                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class=""></path>
+                                                </svg></span><a class="_1jJQdf _2Mji8F" title="Monitors" href="/computers/computer-components/monitors/pr?sid=6bo,g0i,9no&amp;otracker=categorytree">Monitors</a></div>
+                                    </div>
+                                </section>
                             </div>
-                        </section>
-                        <div class="_2q_g77">
-                            <section class="_2aDURW">
-                                <div class="_2lfNTw"><span>CATEGORIES</span></div>
-                                <div>
-                                    <div class="TB_InB"><span><svg width="10" height="10" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2Iqv73">
-                                                <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_3zK8He"></path>
-                                            </svg></span><a class="_2qvBBJ _2Mji8F" title="Computers" href="/computers/pr?sid=6bo&amp;otracker=categorytree">Computers</a></div>
+                            <section class="_2yz7eI _2hbLCH">
+                                <div class="_3KxRU6 _2ssEMF">
+                                    <div class="UR1L2I _3V8rao"><span>Price</span></div>
                                 </div>
-                                <div>
-                                    <div class="TB_InB"><span><svg width="10" height="10" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2Iqv73">
-                                                <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_3zK8He"></path>
-                                            </svg></span><a class="_2qvBBJ _2Mji8F" title="Computer Components" href="/computers/computer-components/pr?sid=6bo,g0i&amp;otracker=categorytree">Computer Components</a></div>
+                                <div class="_2NBiOm">
+                                    <div class="_1nneZ0">
+                                        <div class="_2TbXIJ" style="height: 5px; width: 59.2025px;"></div>
+                                        <div class="_2TbXIJ" style="height: 25px; width: 59.2025px;"></div>
+                                        <div class="_2TbXIJ" style="height: 15px; width: 59.2025px;"></div>
+                                        <div class="_2TbXIJ" style="height: 5px; width: 59.2025px;"></div>
+                                    </div>
                                 </div>
-                                <div>
-                                    <div class="TB_InB"><span><svg width="10" height="10" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2Iqv73">
-                                                <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class=""></path>
-                                            </svg></span><a class="_1jJQdf _2Mji8F" title="Monitors" href="/computers/computer-components/monitors/pr?sid=6bo,g0i,9no&amp;otracker=categorytree">Monitors</a></div>
+                                <div class="_2r34SG">
+                                    <div class="_12FhcQ">
+                                        <div class="_31Kbhn _28DFQy" style="transform: translateX(0px);">
+                                            <div class="_3FdLqY"></div>
+                                        </div>
+                                        <div class="_31Kbhn WC_zGJ" style="transform: translateX(-1.19px);">
+                                            <div class="_3FdLqY"></div>
+                                        </div>
+                                        <div class="_2IN3-t"></div>
+                                        <div class="_2IN3-t _1mRwrD" style="transform: translate(0px) scaleX(0.995);"></div>
+                                    </div>
+                                    <div class="_15GU70">
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 19.7342px;">.</div>
+                                        <div class="_1ftpgI" style="width: 0px;">.</div>
+                                    </div>
+                                </div>
+                                <div class="_2b0bUo">
+                                    <div class="_1YAKP4"><select class="_2YxCDZ">
+                                            <option value="Min" class="_3AsjWR">Min</option>
+                                            <option value="250" class="_3AsjWR">250</option>
+                                            <option value="500" class="_3AsjWR">500</option>
+                                            <option value="1000" class="_3AsjWR">1000</option>
+                                            <option value="2000" class="_3AsjWR">2000</option>
+                                            <option value="5000" class="_3AsjWR">5000</option>
+                                            <option value="10000" class="_3AsjWR">10000</option>
+                                            <option value="20000" class="_3AsjWR">20000</option>
+                                            <option value="30000" class="_3AsjWR">30000</option>
+                                            <option value="40000" class="_3AsjWR">40000</option>
+                                            <option value="50000" class="_3AsjWR">50000</option>
+                                            <option value="60000" class="_3AsjWR">60000</option>
+                                        </select></div>
+                                    <div class="_3zohzR">to</div>
+                                    <div class="_3uDYxP"><select class="_2YxCDZ">
+                                            <option value="250" class="_3AsjWR">250</option>
+                                            <option value="500" class="_3AsjWR">500</option>
+                                            <option value="1000" class="_3AsjWR">1000</option>
+                                            <option value="2000" class="_3AsjWR">2000</option>
+                                            <option value="5000" class="_3AsjWR">5000</option>
+                                            <option value="10000" class="_3AsjWR">10000</option>
+                                            <option value="20000" class="_3AsjWR">20000</option>
+                                            <option value="30000" class="_3AsjWR">30000</option>
+                                            <option value="40000" class="_3AsjWR">40000</option>
+                                            <option value="50000" class="_3AsjWR">50000</option>
+                                            <option value="60000" class="_3AsjWR">60000</option>
+                                            <option value="Max" class="_3AsjWR">60000+</option>
+                                        </select></div>
+                                </div>
+                            </section>
+                            <section class="_2hbLCH _24gLJx"><label class="_2iDkf8 shbqsL"><input type="checkbox" class="_30VH1S" readonly="">
+                                    <div class="_24_Dny _3tCU7L"></div>
+                                    <div class="_3879cV">
+                                        <div class="_3U-Vxu"><img height="21" src="//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png" class="_3U-Vxu"></div>
+                                    </div>
+                                </label>
+                                <div class="Bv11UC"><span class="question">?</span></div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Brand</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Customer Ratings</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n _3DyGEM">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                                <div class="_3FPh42">
+                                    <div class="_2d0we9">
+                                        <div class="_4921Z t0pPfW" title="4★ &amp; above">
+                                            <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
+                                                    <div class="_24_Dny"></div>
+                                                    <div class="_3879cV">4★ &amp; above</div>
+                                                </label></div>
+                                        </div>
+                                        <div class="_4921Z t0pPfW" title="3★ &amp; above">
+                                            <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
+                                                    <div class="_24_Dny"></div>
+                                                    <div class="_3879cV">3★ &amp; above</div>
+                                                </label></div>
+                                        </div>
+                                        <div class="_4921Z t0pPfW" title="2★ &amp; above">
+                                            <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
+                                                    <div class="_24_Dny"></div>
+                                                    <div class="_3879cV">2★ &amp; above</div>
+                                                </label></div>
+                                        </div>
+                                        <div class="_4921Z t0pPfW" title="1★ &amp; above">
+                                            <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
+                                                    <div class="_24_Dny"></div>
+                                                    <div class="_3879cV">1★ &amp; above</div>
+                                                </label></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Discount</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Display Size</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Screen Resolution</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Screen Form Factor</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Inbuilt Speaker</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Panel Type</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Connectivity</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Suitable For</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Response Time</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Offers</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n _3DyGEM">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                                <div class="_3FPh42">
+                                    <div class="_2d0we9">
+                                        <div class="_4921Z t0pPfW" title="No Cost EMI">
+                                            <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
+                                                    <div class="_24_Dny"></div>
+                                                    <div class="_3879cV">No Cost EMI</div>
+                                                </label></div>
+                                        </div>
+                                        <div class="_4921Z t0pPfW" title="Special Price">
+                                            <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
+                                                    <div class="_24_Dny"></div>
+                                                    <div class="_3879cV">Special Price</div>
+                                                </label></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">GST Invoice Available</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
+                                </div>
+                            </section>
+                            <section class="_167Mu3 _2hbLCH">
+                                <div class="_213eRC _2ssEMF">
+                                    <div class="_2gmUFU _3V8rao">Availability</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
+                                    </svg>
                                 </div>
                             </section>
                         </div>
-                        <section class="_2yz7eI _2hbLCH">
-                            <div class="_3KxRU6 _2ssEMF">
-                                <div class="UR1L2I _3V8rao"><span>Price</span></div>
-                            </div>
-                            <div class="_2NBiOm">
-                                <div class="_1nneZ0">
-                                    <div class="_2TbXIJ" style="height: 5px; width: 59.2025px;"></div>
-                                    <div class="_2TbXIJ" style="height: 25px; width: 59.2025px;"></div>
-                                    <div class="_2TbXIJ" style="height: 15px; width: 59.2025px;"></div>
-                                    <div class="_2TbXIJ" style="height: 5px; width: 59.2025px;"></div>
-                                </div>
-                            </div>
-                            <div class="_2r34SG">
-                                <div class="_12FhcQ">
-                                    <div class="_31Kbhn _28DFQy" style="transform: translateX(0px);">
-                                        <div class="_3FdLqY"></div>
-                                    </div>
-                                    <div class="_31Kbhn WC_zGJ" style="transform: translateX(-1.19px);">
-                                        <div class="_3FdLqY"></div>
-                                    </div>
-                                    <div class="_2IN3-t"></div>
-                                    <div class="_2IN3-t _1mRwrD" style="transform: translate(0px) scaleX(0.995);"></div>
-                                </div>
-                                <div class="_15GU70">
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 19.7342px;">.</div>
-                                    <div class="_1ftpgI" style="width: 0px;">.</div>
-                                </div>
-                            </div>
-                            <div class="_2b0bUo">
-                                <div class="_1YAKP4"><select class="_2YxCDZ">
-                                        <option value="Min" class="_3AsjWR">Min</option>
-                                        <option value="250" class="_3AsjWR">250</option>
-                                        <option value="500" class="_3AsjWR">500</option>
-                                        <option value="1000" class="_3AsjWR">1000</option>
-                                        <option value="2000" class="_3AsjWR">2000</option>
-                                        <option value="5000" class="_3AsjWR">5000</option>
-                                        <option value="10000" class="_3AsjWR">10000</option>
-                                        <option value="20000" class="_3AsjWR">20000</option>
-                                        <option value="30000" class="_3AsjWR">30000</option>
-                                        <option value="40000" class="_3AsjWR">40000</option>
-                                        <option value="50000" class="_3AsjWR">50000</option>
-                                        <option value="60000" class="_3AsjWR">60000</option>
-                                    </select></div>
-                                <div class="_3zohzR">to</div>
-                                <div class="_3uDYxP"><select class="_2YxCDZ">
-                                        <option value="250" class="_3AsjWR">250</option>
-                                        <option value="500" class="_3AsjWR">500</option>
-                                        <option value="1000" class="_3AsjWR">1000</option>
-                                        <option value="2000" class="_3AsjWR">2000</option>
-                                        <option value="5000" class="_3AsjWR">5000</option>
-                                        <option value="10000" class="_3AsjWR">10000</option>
-                                        <option value="20000" class="_3AsjWR">20000</option>
-                                        <option value="30000" class="_3AsjWR">30000</option>
-                                        <option value="40000" class="_3AsjWR">40000</option>
-                                        <option value="50000" class="_3AsjWR">50000</option>
-                                        <option value="60000" class="_3AsjWR">60000</option>
-                                        <option value="Max" class="_3AsjWR">60000+</option>
-                                    </select></div>
-                            </div>
-                        </section>
-                        <section class="_2hbLCH _24gLJx"><label class="_2iDkf8 shbqsL"><input type="checkbox" class="_30VH1S" readonly="">
-                                <div class="_24_Dny _3tCU7L"></div>
-                                <div class="_3879cV">
-                                    <div class="_3U-Vxu"><img height="21" src="//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png" class="_3U-Vxu"></div>
-                                </div>
-                            </label>
-                            <div class="Bv11UC"><span class="question">?</span></div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Brand</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Customer Ratings</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n _3DyGEM">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                            <div class="_3FPh42">
-                                <div class="_2d0we9">
-                                    <div class="_4921Z t0pPfW" title="4★ &amp; above">
-                                        <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
-                                                <div class="_24_Dny"></div>
-                                                <div class="_3879cV">4★ &amp; above</div>
-                                            </label></div>
-                                    </div>
-                                    <div class="_4921Z t0pPfW" title="3★ &amp; above">
-                                        <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
-                                                <div class="_24_Dny"></div>
-                                                <div class="_3879cV">3★ &amp; above</div>
-                                            </label></div>
-                                    </div>
-                                    <div class="_4921Z t0pPfW" title="2★ &amp; above">
-                                        <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
-                                                <div class="_24_Dny"></div>
-                                                <div class="_3879cV">2★ &amp; above</div>
-                                            </label></div>
-                                    </div>
-                                    <div class="_4921Z t0pPfW" title="1★ &amp; above">
-                                        <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
-                                                <div class="_24_Dny"></div>
-                                                <div class="_3879cV">1★ &amp; above</div>
-                                            </label></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Discount</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Display Size</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Screen Resolution</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Screen Form Factor</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Inbuilt Speaker</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Panel Type</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Connectivity</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Suitable For</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Response Time</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Offers</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n _3DyGEM">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                            <div class="_3FPh42">
-                                <div class="_2d0we9">
-                                    <div class="_4921Z t0pPfW" title="No Cost EMI">
-                                        <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
-                                                <div class="_24_Dny"></div>
-                                                <div class="_3879cV">No Cost EMI</div>
-                                            </label></div>
-                                    </div>
-                                    <div class="_4921Z t0pPfW" title="Special Price">
-                                        <div class="_1Y4Vhm _4FO7b6"><label class="_2iDkf8 t0pPfW"><input type="checkbox" class="_30VH1S" readonly="">
-                                                <div class="_24_Dny"></div>
-                                                <div class="_3879cV">Special Price</div>
-                                            </label></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">GST Invoice Available</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
-                        <section class="_167Mu3 _2hbLCH">
-                            <div class="_213eRC _2ssEMF">
-                                <div class="_2gmUFU _3V8rao">Availability</div><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="ttx38n">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="IIvmWM"></path>
-                                </svg>
-                            </div>
-                        </section>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="_1YokD2 _3Mn1Gg" style="flex-grow: 1; overflow: auto;">
-            <div class="_1YokD2 _2GoDe3 col-12-12" style="background-color: rgb(255, 255, 255); align-items: flex-end;">
-                <div class="_1AtVbE" style="flex-grow: 1; overflow: auto;">
-                    <div class="W_R1IA">
-                        <div class="_1MR4o5">
-                            <div class="_3GIHBu"><a href="/" class="_2whKao">Home</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
-                                </svg></div>
-                            <div class="_3GIHBu"><a class="_2whKao" href="/computers/pr?sid=6bo&amp;marketplace=FLIPKART">Computers</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
-                                </svg></div>
-                            <div class="_3GIHBu"><a class="_2whKao" href="/computers/computer-components/pr?sid=6bo,g0i&amp;marketplace=FLIPKART">Computer Components</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
-                                </svg></div>
-                            <div class="_3GIHBu"><a class="_2whKao" href="/computers/computer-components/monitors/pr?sid=6bo,g0i,9no&amp;marketplace=FLIPKART">Monitors</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
-                                    <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
-                                </svg></div>
-                        </div>
-                        <div class="col gu12 _1c0opE uJ3Xih">
-                            <div class="_1D76KH"><a href="https://www.flipkart.com/monitors/msi~brand/pr?sid=6bo,g0i,9no">MSI Monitors</a> ,<a href="https://www.flipkart.com/monitors/hp~brand/pr?sid=6bo,g0i,9no">HP Monitors</a> ,<a href="https://www.flipkart.com/monitors/philips~brand/pr?sid=6bo,g0i,9no">Philips Monitors</a> ,<a href="https://www.flipkart.com/monitors/lg~brand/pr?sid=6bo,g0i,9no">lg Monitors</a> ,<a href="https://www.flipkart.com/monitors/dell~brand/pr?sid=6bo,g0i,9no">DELL Monitors</a> ,<a href="https://www.flipkart.com/monitors/lg~brand/pr?sid=6bo,g0i,9no">LG Monitors</a> ,<a href="https://www.flipkart.com/monitors/asus~brand/pr?sid=6bo,g0i,9no">Asus Monitors</a> ,<a href="https://www.flipkart.com/monitors/zebronics~brand/pr?sid=6bo,g0i,9no">ZEBRONICS Monitors</a> ,<a href="https://www.flipkart.com/monitors/lenovo~brand/pr?sid=6bo,g0i,9no">Lenovo Monitors</a> ,<a href="https://www.flipkart.com/monitors/enter~brand/pr?sid=6bo,g0i,9no">Enter Monitors</a><br></div>
-                        </div>
-                        <h1 class="_10Ermr">Curved Monitors</h1><span class="_2tDckM">(Showing 1 – 15 products of 15 products)</span>
-                        <div class="_5THWM1"><span class="_2i7N3j">Sort By</span>
-                            <div class="_10UF8M _3LsR0e">Popularity</div>
-                            <div class="_10UF8M">Price -- Low to High</div>
-                            <div class="_10UF8M">Price -- High to Low</div>
-                            <div class="_10UF8M">Newest First</div>
+            <div class="_1YokD2 _3Mn1Gg" style="flex-grow: 1; overflow: auto;">
+                <div class="_1YokD2 _2GoDe3 col-12-12" style="background-color: rgb(255, 255, 255); align-items: flex-end;">
+                    <div class="_1AtVbE" style="flex-grow: 1; overflow: auto;">
+                        <div class="W_R1IA">
+                            <div class="_1MR4o5">
+                                <div class="_3GIHBu"><a href="/" class="_2whKao">Home</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+                                    </svg></div>
+                                <div class="_3GIHBu"><a class="_2whKao" href="/computers/pr?sid=6bo&amp;marketplace=FLIPKART">Computers</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+                                    </svg></div>
+                                <div class="_3GIHBu"><a class="_2whKao" href="/computers/computer-components/pr?sid=6bo,g0i&amp;marketplace=FLIPKART">Computer Components</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+                                    </svg></div>
+                                <div class="_3GIHBu"><a class="_2whKao" href="/computers/computer-components/monitors/pr?sid=6bo,g0i,9no&amp;marketplace=FLIPKART">Monitors</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+                                        <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+                                    </svg></div>
+                            </div>
+                            <div class="col gu12 _1c0opE uJ3Xih">
+                                <div class="_1D76KH"><a href="https://www.flipkart.com/monitors/msi~brand/pr?sid=6bo,g0i,9no">Sale is live</a> ,<a href="https://www.flipkart.com/monitors/hp~brand/pr?sid=6bo,g0i,9no">HP Monitors</a> ,<a href="https://www.flipkart.com/monitors/philips~brand/pr?sid=6bo,g0i,9no">Philips Monitors</a> ,<a href="https://www.flipkart.com/monitors/lg~brand/pr?sid=6bo,g0i,9no">lg Monitors</a> ,<a href="https://www.flipkart.com/monitors/dell~brand/pr?sid=6bo,g0i,9no">DELL Monitors</a> ,<a href="https://www.flipkart.com/monitors/lg~brand/pr?sid=6bo,g0i,9no">LG Monitors</a> ,<a href="https://www.flipkart.com/monitors/asus~brand/pr?sid=6bo,g0i,9no">Asus Monitors</a> ,<a href="https://www.flipkart.com/monitors/zebronics~brand/pr?sid=6bo,g0i,9no">ZEBRONICS Monitors</a> ,<a href="https://www.flipkart.com/monitors/lenovo~brand/pr?sid=6bo,g0i,9no">Lenovo Monitors</a> ,<a href="https://www.flipkart.com/monitors/enter~brand/pr?sid=6bo,g0i,9no">Enter Monitors</a><br></div>
+                            </div>
+                            <h1 class="_10Ermr">Curved Monitors</h1><span class="_2tDckM">(Showing 1 – 15 products of 15 products)</span>
+                            <div class="_5THWM1"><span class="_2i7N3j">Sort By</span>
+                                <div class="_10UF8M _3LsR0e">Popularity</div>
+                                <div class="_10UF8M">Price -- Low to High</div>
+                                <div class="_10UF8M">Price -- High to Low</div>
+                                <div class="_10UF8M">Newest First</div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="_1AtVbE col-12-12">
-                <div class="_13oc-S">
-                    <div data-id="MONGHYDYGZVXTBS9" style="width: 100%;">
-                        <div class="_2kHMtA" data-tkid="1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGHYDYGZVXTBS9.SEARCH"><a class="_1fQZEK" target="_blank" rel="noopener noreferrer" href="/acer-23-6-inch-curved-full-hd-va-panel-vesa-mount-support-1500r-curvature-hdmi-1-4-integrated-speakers-gaming-monitor-ed240q/p/itm30fe5e5a30da7?pid=MONGHYDYGZVXTBS9&amp;lid=LSTMONGHYDYGZVXTBS9BLPT6M&amp;marketplace=FLIPKART&amp;store=6bo%2Fg0i%2F9no&amp;spotlightTagId=FkPickId_6bo%2Fg0i%2F9no&amp;srno=b_1_1&amp;otracker=hp_omu_Top%2BOffers_3_4.dealCard.OMU_LNGPL5W28IL5_3&amp;otracker1=hp_omu_PINNED_neo%2Fmerchandising_Top%2BOffers_NA_dealCard_cc_3_NA_view-all_3&amp;fm=neo%2Fmerchandising&amp;iid=1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGHYDYGZVXTBS9.SEARCH&amp;ppt=browse&amp;ppn=browse&amp;ssid=2njax88o1c0000001687613497461">
-                                <div>
-                                    <div class="_220jKJ JyiPCp" style="background: rgb(53, 54, 56);">Flipkart's Choice</div>
-                                </div>
-                                <div class="MIXNux">
-                                    <div class="_2QcLo-">
+                <div class="_1AtVbE col-12-12">
+
+                    <?php
+                    $discounts_array = $product->getData('products');
+                    shuffle($discounts_array);
+                    foreach ($discounts_array as $item) :
+                    ?>
+
+
+                        <div class="_13oc-S">
+                            <div data-id="MONGHYDYGZVXTBS9" style="width: 100%;">
+                                <div class="_2kHMtA" data-tkid="1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGHYDYGZVXTBS9.SEARCH"><a onclick='sendId()' class="_1fQZEK" target="_blank" rel="noopener noreferrer" href="pro.php">
                                         <div>
-                                            <div class="CXW8mj" style="height: 200px; width: 200px;"><img loading="eager" class="_396cs4" alt="Acer 23.6 inch Curved Full HD VA Panel with VESA Mount Support, 1500R Curvature, HDMI 1.4, Integrated ..." src="https://rukminim1.flixcart.com/image/312/312/xif0q/monitor/r/5/v/-original-imaggd38vfwc6h7v.jpeg?q=70"></div>
+                                            <div class="_220jKJ JyiPCp" style="background: rgb(53, 54, 56);">Flipkart's Choice</div>
                                         </div>
-                                    </div>
-                                    <div class="_3wLduG"></div>
-                                    <div class="_2hVSre _3nq8ih">
-                                        <div class="_36FSn5"><svg xmlns="http://www.w3.org/2000/svg" class="_1l0elc" width="16" height="16" viewBox="0 0 20 16">
-                                                <path d="M8.695 16.682C4.06 12.382 1 9.536 1 6.065 1 3.219 3.178 1 5.95 1c1.566 0 3.069.746 4.05 1.915C10.981 1.745 12.484 1 14.05 1 16.822 1 19 3.22 19 6.065c0 3.471-3.06 6.316-7.695 10.617L10 17.897l-1.305-1.215z" fill="#2874F0" class="eX72wL" stroke="#FFF" fill-rule="evenodd" opacity=".9"></path>
-                                            </svg></div>
-                                    </div>
-                                </div>
-                                <div class="_3pLy-c row">
-                                    <div class="col col-7-12">
-                                        <div class="_4rR01T">Acer 23.6 inch Curved Full HD VA Panel with VESA Mount Support, 1500R Curvature, HDMI 1.4, Integrated ...</div>
-                                        <div class="gUuXy-"><span id="productRating_LSTMONGHYDYGZVXTBS9BLPT6M_MONGHYDYGZVXTBS9_" class="_1lRcqv">
-                                                <div class="_3LWZlK">4.4<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o"></div>
-                                            </span><span class="_2_R_DZ"><span><span>895 Ratings&nbsp;</span><span class="_13vcmD">&amp;</span><span>&nbsp;136 Reviews</span></span></span></div>
-                                        <div class="fMghEO">
-                                            <ul class="_1xgFaf">
-                                                <li class="rgWa7D">Panel Type: VA Panel</li>
-                                                <li class="rgWa7D">Screen Resolution Type: Full HD</li>
-                                                <li class="rgWa7D">Brightness: 250 nits</li>
-                                                <li class="rgWa7D">Response Time: 1 ms | Refresh Rate: 75 Hz</li>
-                                                <li class="rgWa7D">3 Years Warranty</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col col-5-12 nlI3QM">
-                                        <div class="_3tbKJL">
-                                            <div class="_25b18c">
-                                                <div class="_30jeq3 _1_WHN1">₹8,299</div>
-                                                <div class="_3I9_wc _27UcVY">₹9,999</div>
-                                                <div class="_3Ay6Sb"><span>17% off</span></div>
-                                            </div>
-                                            <div class="_3tcB5a p8ucoS">
+                                        <div class="MIXNux">
+                                            <div class="_2QcLo-">
                                                 <div>
-                                                    <div class="_2Tpdn3" style="color: rgb(0, 0, 0); font-size: 12px; font-weight: 400;">Free delivery by</div>
-                                                    <div class="_2Tpdn3" style="color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: 700;"> 27th Jun</div>
+                                                    <div class="CXW8mj" style="height: 200px; width: 200px;"><img loading="eager" class="_396cs4" alt="Acer 23.6 inch Curved Full HD VA Panel with VESA Mount Support, 1500R Curvature, HDMI 1.4, Integrated ..." src="./assets/images/products/<?php echo $item['product_img']; ?>.png"></div>
+                                                </div>
+                                            </div>
+                                            <div class="_3wLduG"></div>
+                                            <div class="_2hVSre _3nq8ih">
+                                                <div class="_36FSn5"><svg xmlns="http://www.w3.org/2000/svg" class="_1l0elc" width="16" height="16" viewBox="0 0 20 16">
+                                                        <path d="M8.695 16.682C4.06 12.382 1 9.536 1 6.065 1 3.219 3.178 1 5.95 1c1.566 0 3.069.746 4.05 1.915C10.981 1.745 12.484 1 14.05 1 16.822 1 19 3.22 19 6.065c0 3.471-3.06 6.316-7.695 10.617L10 17.897l-1.305-1.215z" fill="#2874F0" class="eX72wL" stroke="#FFF" fill-rule="evenodd" opacity=".9"></path>
+                                                    </svg></div>
+                                            </div>
+                                        </div>
+                                        <div class="_3pLy-c row">
+                                            <div class="col col-7-12">
+                                                <div class="_4rR01T"><?php echo $item['product_title']; ?></div>
+                                                <div class="gUuXy-"><span id="productRating_LSTMONGHYDYGZVXTBS9BLPT6M_MONGHYDYGZVXTBS9_" class="_1lRcqv">
+                                                        <div class="_3LWZlK">4.4<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o"></div>
+                                                    </span><span class="_2_R_DZ"><span><span>895 Ratings&nbsp;</span><span class="_13vcmD">&amp;</span><span>&nbsp;136 Reviews</span></span></span></div>
+                                                <div class="fMghEO">
+                                                    <ul class="_1xgFaf">
+                                                        <li class="rgWa7D">Panel Type: VA Panel</li>
+                                                        <li class="rgWa7D">Screen Resolution Type: Full HD</li>
+                                                        <li class="rgWa7D">Brightness: 250 nits</li>
+                                                        <li class="rgWa7D">Response Time: 1 ms | Refresh Rate: 75 Hz</li>
+                                                        <li class="rgWa7D">3 Years Warranty</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col col-5-12 nlI3QM">
+                                                <div class="_3tbKJL">
+                                                    <div class="_25b18c">
+                                                        <div class="_30jeq3 _1_WHN1"><?php echo '&#8377;' . $item['product_price']; ?></div>
+                                                        <div class="_3I9_wc _27UcVY"><?php echo '&#8377;' . $item['product_cutted_price']; ?></div>
+                                                        <div class="_3Ay6Sb"><span>17% off</span></div>
+                                                    </div>
+                                                    <div class="_3tcB5a p8ucoS">
+                                                        <div>
+                                                            <div class="_2Tpdn3" style="color: rgb(0, 0, 0); font-size: 12px; font-weight: 400;">Free delivery by</div>
+                                                            <div class="_2Tpdn3" style="color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: 700;"> 27th Jun</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="_13J9qT"><img height="21" src="//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png"></div>
+                                                <div class="_2ZdXDB">
+                                                    <div class="_3xFhiH">
+                                                        <div class="_2Tpdn3 _18hQoS" style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-weight: 400;">Upto </div>
+                                                        <div class="_2Tpdn3 _18hQoS" style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-weight: 700;">₹220</div>
+                                                        <div class="_2Tpdn3 _18hQoS" style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-weight: 400;"> Off on Exchange</div>
+                                                    </div>
+                                                </div>
+                                                <div class="_2ZdXDB">
+                                                    <div class="_3xFhiH">
+                                                        <div class="_2Tpdn3 _18hQoS" style="color: rgb(38, 165, 65); font-size: 14px; font-weight: 700;">Bank Offer</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="_13J9qT"><img height="21" src="//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png"></div>
-                                        <div class="_2ZdXDB">
-                                            <div class="_3xFhiH">
-                                                <div class="_2Tpdn3 _18hQoS" style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-weight: 400;">Upto </div>
-                                                <div class="_2Tpdn3 _18hQoS" style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-weight: 700;">₹220</div>
-                                                <div class="_2Tpdn3 _18hQoS" style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-weight: 400;"> Off on Exchange</div>
-                                            </div>
-                                        </div>
-                                        <div class="_2ZdXDB">
-                                            <div class="_3xFhiH">
-                                                <div class="_2Tpdn3 _18hQoS" style="color: rgb(38, 165, 65); font-size: 14px; font-weight: 700;">Bank Offer</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                    </div>
+                                    </a></div>
+                            </div>
+                        </div>
+                        <script>
+                            function sendId() {
+                                var id = <?php echo $item['product_id']; ?>; // Replace with the ID you want to send
+                                window.location.href = "pro.php?id=" + id;
+                            }
+                        </script>
+
+                    <?php
+                    endforeach;
+                    ?>
                 </div>
-            </div>
-            <div class="_1AtVbE col-12-12">
+                <!-- Sending Page -->
+                <a onclick="sendId()">Send ID</a>
+
+
+
+
+
+
+
+
+                <!-- <div class="_1AtVbE col-12-12">
                 <div class="_13oc-S">
                     <div data-id="MONGYJU8UGHXZ7FZ" style="width: 100%;">
                         <div class="_2kHMtA" data-tkid="1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGYJU8UGHXZ7FZ.SEARCH"><a class="_1fQZEK" target="_blank" rel="noopener noreferrer" href="/lg-29-inch-wfhd-led-backlit-ips-panel-hdr-10-black-stabilizer-dynamic-action-sync-dual-controller-onscreen-control-immersive-ultrawide-monitor-29wl500/p/itm9e5588cf9adc8?pid=MONGYJU8UGHXZ7FZ&amp;lid=LSTMONGYJU8UGHXZ7FZYJH4YZ&amp;marketplace=FLIPKART&amp;store=6bo%2Fg0i%2F9no&amp;srno=b_1_2&amp;otracker=hp_omu_Top%2BOffers_3_4.dealCard.OMU_LNGPL5W28IL5_3&amp;otracker1=hp_omu_PINNED_neo%2Fmerchandising_Top%2BOffers_NA_dealCard_cc_3_NA_view-all_3&amp;fm=neo%2Fmerchandising&amp;iid=1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGYJU8UGHXZ7FZ.SEARCH&amp;ppt=hp&amp;ppn=homepage&amp;ssid=2njax88o1c0000001687613497461">
@@ -1313,7 +1343,7 @@ include 'partials/_categories_img_nav.php';
                     </div>
                 </div>
             </div>
-            <div class="_1AtVbE col-12-12" style="margin: 10px 0px 0px;">
+            <div class="_1AtVbE col-12-12" style="margin: 10px 0px 0px;"> -->
                 <div class="_1anD2T" data-tkid="1b8fc128-3ded-45c7-b3cc-226d6112e9f0"><span class="PTpXCl">Did you find what you were looking for?</span>
                     <div class="_1ye8x2 _1xLf4B"><span class="_2eFmU2 _3ZMjMT">Yes</span><span class="_2eFmU2 _3ZMjMT">No</span></div>
                 </div>
@@ -1761,7 +1791,8 @@ include 'partials/_categories_img_nav.php';
         </div>
     </div>
     <div class="_1AtVbE col-12-12"></div>
-</div>
+    </div>
 
 </body>
+
 </html>
