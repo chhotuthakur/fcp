@@ -168,17 +168,36 @@ include 'partials/_categories_img_nav.php';
               <li><a href="">iPhone</a></li>
               <li class="active">iPhone X</li>
             </ol>
-           
-            <h4 id="myHeading"></h4>
-
-            <script>
+            <!-- <script>
               var urlParams = new URLSearchParams(window.location.search);
               var id = urlParams.get("id");
               var headingElement = document.getElementById("myHeading");
               headingElement.innerHTML = id; 
+             
               console.log(id); // Output: 123 (or the value you sent from the sending page)
-            </script>
+            </script> -->
 
+            <?php
+             $purl = $_SERVER['REQUEST_URI'];
+             $queryString = parse_url($purl,PHP_URL_QUERY);
+             parse_str($queryString,$params);
+             if(isset($params['id'])){
+              $pid = $params['id'];
+              echo $pid;
+
+             }
+
+           
+
+
+                    $discounts_array = $product->getData('products',['product_id'=>$pid]);
+                    shuffle($discounts_array);
+                  foreach ($discounts_array as $item):
+                    ?>
+
+            <h4 id=""><?php echo $item['product_title']; ?></h4>
+
+         
             <div class="row">
               <div class="col-sm-2">
                 <span class="label label-success">4.6 <span class="glyphicon glyphicon-star"></span></span>
@@ -232,7 +251,11 @@ include 'partials/_categories_img_nav.php';
                 <button class="btn btn-default" style="color:#337ab7;border:1px dashed #337ab7;">64GB</button>
                 <button class="btn btn-default">256GB</button>
               </div>
-
+              <?php
+                   endforeach;
+                
+                   
+                    ?>
             </div>
 
             <br><br>

@@ -329,7 +329,7 @@ include 'partials/_categories_img_nav.php';
 
                         <div class="_13oc-S">
                             <div data-id="MONGHYDYGZVXTBS9" style="width: 100%;">
-                                <div class="_2kHMtA" data-tkid="1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGHYDYGZVXTBS9.SEARCH"><a onclick='sendId()' class="_1fQZEK" target="_blank" rel="noopener noreferrer" href="pro.php">
+                                <div class="_2kHMtA" data-tkid="1b8fc128-3ded-45c7-b3cc-226d6112e9f0.MONGHYDYGZVXTBS9.SEARCH"><a onclick='sendId()' class="_1fQZEK" target="_blank" rel="noopener noreferrer" href="pro.php?id=<?php echo $item['product_id']; ?>">
                                         <div>
                                             <div class="_220jKJ JyiPCp" style="background: rgb(53, 54, 56);">Flipkart's Choice</div>
                                         </div>
