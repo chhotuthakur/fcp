@@ -1,6 +1,6 @@
 <?php
 ob_start();
-include 'header.php';
+include './header.php';
 include 'partials/_categories_img_nav.php';
 ?>
 
@@ -13,9 +13,28 @@ include 'partials/_categories_img_nav.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>.
     <link rel="stylesheet" href="assets/css/flip.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+
+<!-- font awesome cdn -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- material icons cdn -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<!-- owl carousel cdn -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- custom build css -->
+<link rel="stylesheet" href="assets/css/style.min.css">
+
+<!-- jquery cdn -->
+<script src="assets/js/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
+   
 
 
 
@@ -350,8 +369,8 @@ include 'partials/_categories_img_nav.php';
                                             <div class="col col-7-12">
                                                 <div class="_4rR01T"><?php echo $item['product_title']; ?></div>
                                                 <div class="gUuXy-"><span id="productRating_LSTMONGHYDYGZVXTBS9BLPT6M_MONGHYDYGZVXTBS9_" class="_1lRcqv">
-                                                        <div class="_3LWZlK">4.4<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o"></div>
-                                                    </span><span class="_2_R_DZ"><span><span>895 Ratings&nbsp;</span><span class="_13vcmD">&amp;</span><span>&nbsp;136 Reviews</span></span></span></div>
+                                                        <div class="_3LWZlK"><?php echo $item['product_rating_star']; ?><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o"></div>
+                                                    </span><span class="_2_R_DZ"><span><span><?php echo $item['product_rating_count']; ?> Ratings&nbsp;</span><span class="_13vcmD">&amp;</span><span>&nbsp;136 Reviews</span></span></span></div>
                                                 <div class="fMghEO">
                                                     <ul class="_1xgFaf">
                                                         <li class="rgWa7D">Panel Type: VA Panel</li>
@@ -394,19 +413,20 @@ include 'partials/_categories_img_nav.php';
                                     </a></div>
                             </div>
                         </div>
-                        <script>
+                        <!-- <script>
                             function sendId() {
-                                var id = <?php echo $item['product_id']; ?>; // Replace with the ID you want to send
+                                var id = ; // Replace with the ID you want to send
                                 window.location.href = "pro.php?id=" + id;
                             }
-                        </script>
+                             //?php echo $item['product_id'];  
+                        script -->
 
                     <?php
                     endforeach;
                     ?>
                 </div>
                 <!-- Sending Page -->
-                <a onclick="sendId()">Send ID</a>
+                <!-- <a onclick="sendId()">Send ID</a> -->
 
 
 

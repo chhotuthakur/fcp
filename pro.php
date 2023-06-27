@@ -135,12 +135,34 @@ include 'partials/_categories_img_nav.php';
 
   <!-- menu_end -->
   <section>
+
+  
+  <?php
+             $purl = $_SERVER['REQUEST_URI'];
+             $queryString = parse_url($purl,PHP_URL_QUERY);
+             parse_str($queryString,$params);
+             if(isset($params['id'])){
+              $pid = $params['id'];
+              echo $pid;
+
+             }
+
+           
+
+
+                    $discounts_array = $product->getData('products',['product_id'=>$pid]);
+                    shuffle($discounts_array);
+                  foreach ($discounts_array as $item){
+                    if ($item['product_id'] == $pid) {
+                    
+                  
+                    ?>
     <div class="container-fluid">
       <div class="row">
         <!-- Product picture -->
         <div class="col-sm-5">
           <div class="thumbnail">
-            <img src="https://cdn.mobilephonesdirect.co.uk/images/handsets/480/apple/apple-iphone-x-silver.png" class="img-responsive" alt="">
+            <img src="./assets/images/products/<?php echo $item['product_img']; ?>.png"" class="img-responsive" alt="">
 
             <div class="caption">
               <div class="row buttons">
@@ -148,7 +170,7 @@ include 'partials/_categories_img_nav.php';
                 <button class="btn  col-sm-4 col-sm-offset-2 btn-lg" style="background-color:#ff9f00; color:#fff;font-size:1em;"><span class="glyphicon glyphicon-shopping-cart"></span>&nbsp;ADD TO CART</button>
 
 
-                <button class="btn col-sm-4 col-sm-offset-1 btn-lg" style="background-color:#fb641b; color:#fff;font-size:1em;"><i class="fa fa-bolt" style="font-size:1.2em;"></i> BUY NOW</button>
+                <button class="btn col-sm-4 col-sm-offset-1 btn-lg" style="background-color:#fb641b; color:#fff;font-size:1em;"><a href="pay2.php?id=<?php echo $item['product_id']; ?>"><i class="fa fa-bolt" style="font-size:1.2em;"></i> BUY NOW</button>
               </div>
 
             </div>
@@ -177,23 +199,6 @@ include 'partials/_categories_img_nav.php';
               console.log(id); // Output: 123 (or the value you sent from the sending page)
             </script> -->
 
-            <?php
-             $purl = $_SERVER['REQUEST_URI'];
-             $queryString = parse_url($purl,PHP_URL_QUERY);
-             parse_str($queryString,$params);
-             if(isset($params['id'])){
-              $pid = $params['id'];
-              echo $pid;
-
-             }
-
-           
-
-
-                    $discounts_array = $product->getData('products',['product_id'=>$pid]);
-                    shuffle($discounts_array);
-                  foreach ($discounts_array as $item):
-                    ?>
 
             <h4 id=""><?php echo $item['product_title']; ?></h4>
 
@@ -252,7 +257,7 @@ include 'partials/_categories_img_nav.php';
                 <button class="btn btn-default">256GB</button>
               </div>
               <?php
-                   endforeach;
+                     }};
                 
                    
                     ?>
